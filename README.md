@@ -1,0 +1,1 @@
+The analysis shows that financial factors such as production budget and audience engagement (votes) play a significant role in determining a movie’s gross revenue. Correlation analysis helped identify which variables have the strongest linear and monotonic relationships.
